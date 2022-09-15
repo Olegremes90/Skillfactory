@@ -1,5 +1,23 @@
-# Object file
-*.o
 
-# Ada Library Information
-*.ali
+
+
+# Эскизы
+._*
+
+# Файлы, которые могут отображаться в корне тома
+.Просмотр документов-V100
+.fseventsd
+.Spotlight-V100
+.Временные элементы
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.не присутствуйте
+
+# Каталоги, потенциально созданные на удаленном общем ресурсе AFP
+.AppleDB
+.AppleDesktop
+Сетевая папка корзины
+Временные элементы
+.apdisk
+
+# Конец https://www.toptal.com/developers/gitignore/api/osx

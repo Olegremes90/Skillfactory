@@ -1,12 +1,13 @@
-field = [[' '] for i in range(3)] 
+field = [[' '] for i in range(3)]
 
 
+def ask():
+    while True:
+        cords = input("         Ваш ход: ").split()
 
-
-
-
-
-
+        if len(cords) != 2:
+            print(" Введите координаты: ")
+            continue
 
 
 

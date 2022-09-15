@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63fea6f4-3325-4539-bc57-025a17b58c94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/крестики-нолики.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/крестики-нолики.py" beforeDir="false" afterPath="$PROJECT_DIR$/крестики-нолики.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
